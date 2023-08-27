@@ -1,0 +1,30 @@
+# Project Management Process Groups
+
+This standard outlines the project management processes used to achieve project objectives. These processes are categorized into five Project Management Process Groups:
+
+## Initiating Process Group
+The processes involved in defining a new project or a new phase of an existing project. These processes obtain authorization to initiate the project or phase. Initiating processes are covered in Section 2.
+
+## Planning Process Group
+Processes needed to determine the project's scope, refine objectives, and establish the necessary actions to accomplish project goals. Covered in Section 3.
+
+## Executing Process Group
+Processes executed to fulfill the tasks outlined in the project management plan and meet project requirements. Detailed in Section 4.
+
+## Monitoring and Controlling Process Group
+Processes required to track, review, and control project progress and performance. These processes identify areas needing plan adjustments and initiate necessary changes. Explored in Section 5.
+
+## Closing Process Group
+Processes performed to formally conclude a project, phase, or contract. Described in Section 6.
+
+These Process Groups are independent of application areas (e.g., marketing, information services) or industry focus (e.g., construction, aerospace). Processes within these groups can be iterated before phase or project completion. Processes generally fall into three categories:
+
+1. Processes used once or at specific project points (e.g., project charter development, project closure).
+2. Periodic processes performed as needed (e.g., resource acquisition, procurement).
+3. Continuous processes throughout the project (e.g., defining activities, ongoing monitoring and control).
+
+The output of one process typically becomes an input for another process or a project deliverable. For instance, project management plans and documents (e.g., risk register, responsibility assignment matrix) from the Planning Process Group feed into the Executing Process Group for updates. 
+
+Process Groups should not be confused with project phases. While interacting within each phase, these groups may also overlap. Project phases (e.g., concept development, design, testing) incorporate processes from all the Process Groups, with iterations as necessary to meet phase completion criteria.
+
+[Image](./grupos_procesos.jpeg)
