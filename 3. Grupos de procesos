@@ -27,4 +27,4 @@ The output of one process typically becomes an input for another process or a pr
 
 Process Groups should not be confused with project phases. While interacting within each phase, these groups may also overlap. Project phases (e.g., concept development, design, testing) incorporate processes from all the Process Groups, with iterations as necessary to meet phase completion criteria.
 
-[Image](./grupos_procesos.jpeg)
+![Image](./grupos_procesos.jpeg)
