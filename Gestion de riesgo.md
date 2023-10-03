@@ -1,6 +1,9 @@
 # Gestión de riesgo
 
-Busca el libro de "administración exitosa de proyectos" la edición más actual
+Busca el libro de
+
+* "Administración exitosa de proyectos" la edición más actual
+* Managing and leading software projects. Fairley
 
 Oportunidad: probabilidad de que suceda algo desable
 
@@ -54,6 +57,7 @@ Objetivo gestión:
     * transferir
     * Mitigar
     * aceptar
+* Monitorear riesgos
 
 ![Image](./msg1672672303-30600.jpg)
 
